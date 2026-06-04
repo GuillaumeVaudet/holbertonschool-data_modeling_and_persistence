@@ -1,0 +1,1 @@
+SELECT Max(stock) FROM books;
