@@ -1,0 +1,1 @@
+SELECT genre, stock FROM books GROUP BY genre;
